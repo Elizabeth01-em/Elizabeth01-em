@@ -1,18 +1,18 @@
-# Hi there 👋, I'm Elizabeth Mulokozi!
+# Hi there , I'm Elizabeth Mulokozi!
 
-🎓 I'm a **Computer Engineering** student based in **Dar es Salaam, Tanzania**.
-💻 Passionate about building real-world tech solutions through software: clean user interfaces, reliable backend systems, databases, APIs, and business workflows that solve real problems and automate tasks.
+ I'm a **Computer Engineering** student based in **Dar es Salaam, Tanzania**.
+ Passionate about building real-world tech solutions through software: clean user interfaces, reliable backend systems, databases, APIs, and business workflows that solve real problems and automate tasks.
 
 ---
 
-## 🌟 What I'm Working On
+##  What I'm Working On
 
-- 📦 Building **Nex Express**, a logistics tracking and customer notification system with WhatsApp communication.
-- 🛍️ Developing full-stack e-commerce platforms with **Django** and **PostgreSQL**.
-- 🔌 Designing **REST APIs** and real-time features with **WebSockets**.
-- 📱 Exploring mobile app development with **Flutter**.
+- Building **Nex Express**, a logistics tracking and customer notification system with WhatsApp communication.
+- Developing full-stack e-commerce platforms with **Django** and **PostgreSQL**.
+- Designing **REST APIs** and real-time features with **WebSockets**.
+- Exploring mobile app development with **Flutter**.
 
-## 🚀 Goals
+##  Goals
 
 - Sharpen my skills in **backend development, APIs, and DevOps**.
 - Build scalable, maintainable systems for real business needs.
@@ -21,7 +21,7 @@
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
